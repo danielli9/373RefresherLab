@@ -36,6 +36,11 @@
     "coverage": {
       "/Users/danli/Documents/CMU/67-373/Refresher Lab/lab5-choretracker-starter/app/models/child.rb": [
         1,
+        1,
+        1,
+        null,
+        1,
+        1,
         null,
         null
       ],
@@ -45,12 +50,15 @@
         null
       ],
       "/Users/danli/Documents/CMU/67-373/Refresher Lab/lab5-choretracker-starter/app/models/chore.rb": [
-        0,
-        0
+        1,
+        1,
+        1,
+        null,
+        null
       ],
       "/Users/danli/Documents/CMU/67-373/Refresher Lab/lab5-choretracker-starter/app/models/task.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/danli/Documents/CMU/67-373/Refresher Lab/lab5-choretracker-starter/app/controllers/application_controller.rb": [
         0,
@@ -304,6 +312,6 @@
         0
       ]
     },
-    "timestamp": 1612784923
+    "timestamp": 1612785676
   }
 }
